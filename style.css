@@ -1,0 +1,32 @@
+body {
+  height: 600px;
+  width: 400px;
+  padding: 10px;
+  background-color: #efefef;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  color: #5C323E;
+  font-family: 'Fredoka One', sans-serif;
+  margin-top:-10px;
+  margin-bottom: -4px;
+  font-size: 48px;
+}
+
+h2 {
+  color: #5C323E;
+  font-family: 'Fredoka One', sans-serif;
+  margin-bottom: -10px;
+  font-size: 24px;
+}
+
+a {
+  color: #A82743;
+  text-decoration: none;
+}
+
+.list-group {
+  border-bottom: 1px dotted #A82743;
+}
